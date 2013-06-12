@@ -1,0 +1,6 @@
+= README
+
+This app is just a tutorial app so I could get used to building Android apps.
+
+It's a simple app.  It just takes input from one Activity and displays it in
+another one.
